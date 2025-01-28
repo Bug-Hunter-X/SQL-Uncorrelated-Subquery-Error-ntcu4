@@ -1,0 +1,2 @@
+# SQL Uncorrelated Subquery Bug
+This repository demonstrates a common error in SQL queries involving uncorrelated subqueries.  The example shows how an uncorrelated subquery, calculating a single average salary, leads to inaccurate filtering when used in a comparison with individual employee salaries. The solution provides a corrected correlated subquery for accurate results.  This repository is useful for illustrating common SQL pitfalls and best practices. 
